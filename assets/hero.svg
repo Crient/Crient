@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="385" viewBox="0 0 1200 385" role="img" aria-label="LENG.EXE. I make things. Creative software, design, and AI research. Rover on a floating island.">
+ <defs>
+ <pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M18 0H0V18" fill="none" stroke="#4a99a5" stroke-width=".7" opacity=".18"/></pattern>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0e3040"/><stop offset="1" stop-color="#071722"/></linearGradient>
+ <linearGradient id="globe" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9ef6b5"/><stop offset=".5" stop-color="#2eb6a9"/><stop offset="1" stop-color="#144b63"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffe17b"/><stop offset=".65" stop-color="#ffca63"/><stop offset="1" stop-color="#ffa963"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b3dfff"/><stop offset=".5" stop-color="#6099e6"/><stop offset="1" stop-color="#23517b"/></linearGradient>
+ <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffd0df"/><stop offset="1" stop-color="#d66d9d"/></linearGradient>
+ <filter id="glowFilter" x="-30%" y="-40%" width="160%" height="180%"><feGaussianBlur stdDeviation="5"/></filter>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#000" flood-opacity=".5"/></filter>
+ </defs><style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'DejaVu Sans', 'Segoe UI', Arial, sans-serif} .mono{font-family:'DejaVu Sans Mono', Menlo, Consolas, monospace}
+@media (prefers-reduced-motion:no-preference){
+.float{animation:float 3.1s ease-in-out infinite; transform-box:fill-box; transform-origin:center}
+.glow{animation:pulse 2.8s ease-in-out infinite}
+.spark{animation:blink 2.3s ease-in-out infinite alternate}
+.dash{animation:dash 3s linear infinite}
+}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+@keyframes pulse{0%,100%{opacity:.65}50%{opacity:1}}
+@keyframes blink{from{opacity:.22}to{opacity:1}}
+@keyframes dash{to{stroke-dashoffset:-40}}
+</style>
+ <rect x="0" y="0" width="1200" height="385" rx="0" fill="#07111B"/><rect x="5" y="5" width="1190" height="375" rx="9" fill="url(#panel)" stroke="#47eadb" stroke-width="2"/><rect x="12" y="11" width="1176" height="363" rx="0" fill="url(#grid)"/><rect x="7" y="7" width="5" height="371" rx="0" fill="#47eadb"/><rect x="13" y="7" width="1174" height="3" rx="0" fill="#47eadb"/><rect x="31" y="29" width="1138" height="327" rx="6" fill="none" stroke="#50d8d0" stroke-width="2"/><text x="59" y="71" font-size="17" font-weight="800" fill="#47eadb" class="mono" letter-spacing="2.2">CRIENT / PLAYER 01 // PUBLIC PROFILE</text><text x="56" y="182" font-size="113" font-weight="950" fill="#e3fff7" letter-spacing="-5">LENG.EXE</text><rect x="57" y="192" width="478" height="4" rx="0" fill="#47eadb"/><text x="61" y="247" font-size="40" font-weight="950" fill="#ffd66c" >I MAKE THINGS.</text><text x="60" y="281" font-size="22" font-weight="550" fill="#f3fff9" >Apps, interfaces, design, and lately some AI.</text><text x="60" y="308" font-size="22" font-weight="550" fill="#f3fff9" >I usually have another idea to try.</text><text x="60" y="341" font-size="18" font-weight="750" fill="#9ad9ea" class="mono">CAMBODIA / BOSTON / CS @ WENTWORTH</text><path d="M813 49L1127 128 1085 328 755 244Z" fill="none" stroke="#34768a" opacity=".55" stroke-width="2"/><rect x="1022" y="45" width="130" height="34" rx="6" fill="#082e34" stroke="#47eadb" stroke-width="2"/><text x="1048" y="69" font-size="18" font-weight="750" fill="#86efc7" >ONLINE</text><circle cx="1135" cy="62" r="5" fill="#46fbc4" class="glow"/><path d="M1042 88h46v15h13v52h-13v15h-46v-15h-12v-52h12Z" fill="#ffd376" /><g transform="translate(765 124) scale(0.95)" filter="url(#shadow)">
+ <path d="M5 132L181 68 358 133 335 182 185 235 33 187Z" fill="#0b555e"/>
+ <path d="M5 132L181 68 358 133 185 169Z" fill="#72dfa9"/>
+ <path d="M185 169L358 133 335 182 185 235 33 187 5 132Z" fill="#197b79" opacity=".75"/>
+ <path d="M39 130L120 113 204 144" fill="none" stroke="#d6f7b2" stroke-width="5" opacity=".65"/>
+ <path d="M176 85l47-58 43 61" fill="#205d80"/><path d="M192 69l31-42 17 26-17-6-12 16" fill="#c4faff"/>
+ <path d="M245 97l42-48 35 61" fill="#287a90"/><path d="M258 82l29-33 15 26-16-5" fill="#9fe9e7"/>
+ <g transform="translate(305 82)"><rect x="3" y="41" width="10" height="41" fill="#765f3a"/><path d="M8 0L-8 31H-1L-19 52H0L-14 70H30L15 52H35L17 31H23Z" fill="#168e80" stroke="#84e4ab" stroke-width="2"/></g>
+ <ellipse cx="174" cy="171" rx="84" ry="16" fill="#062b3d" opacity=".45"/>
+ <g class="float"><path d="M109 113l17-32q5-10 21-11h56q16 0 26 14l22 31v40H100v-32Z" fill="#3dc4cb" stroke="#0b5872" stroke-width="5"/>
+ <path d="M145 78l-21 36h53V77Z" fill="#c8f9e1" stroke="#0e5875" stroke-width="4"/>
+ <path d="M184 77v37h47l-20-30q-4-7-17-7Z" fill="#e5f5e8" stroke="#0e5875" stroke-width="4"/>
+ <path d="M111 132h138" stroke="#c1fdf3" stroke-width="6"/>
+ <rect x="91" y="142" width="167" height="18" rx="6" fill="#0c769a"/>
+ <rect x="246" y="128" width="13" height="13" fill="#fcd278"/>
+ <circle cx="135" cy="158" r="26" fill="#112736" stroke="#cef8f0" stroke-width="5"/><circle cx="135" cy="158" r="12" fill="#33576e"/>
+ <circle cx="224" cy="158" r="26" fill="#112736" stroke="#cef8f0" stroke-width="5"/><circle cx="224" cy="158" r="12" fill="#33576e"/></g>
+ </g><g fill="#6ff6e8" class="spark"><rect x="749" y="104" width="8" height="8"/><rect x="828" y="92" width="6" height="6"/><rect x="1110" y="231" width="7" height="7"/></g>
+ </svg>

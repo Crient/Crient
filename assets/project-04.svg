@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="586" height="242" viewBox="0 0 586 242" role="img" aria-label="LENG’S WORLD. Yes, you can drive my portfolio. Next.js / 3D / in development">
+ <defs>
+ <pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M18 0H0V18" fill="none" stroke="#4a99a5" stroke-width=".7" opacity=".18"/></pattern>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0e3040"/><stop offset="1" stop-color="#071722"/></linearGradient>
+ <linearGradient id="globe" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9ef6b5"/><stop offset=".5" stop-color="#2eb6a9"/><stop offset="1" stop-color="#144b63"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffe17b"/><stop offset=".65" stop-color="#ffca63"/><stop offset="1" stop-color="#ffa963"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b3dfff"/><stop offset=".5" stop-color="#6099e6"/><stop offset="1" stop-color="#23517b"/></linearGradient>
+ <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffd0df"/><stop offset="1" stop-color="#d66d9d"/></linearGradient>
+ <filter id="glowFilter" x="-30%" y="-40%" width="160%" height="180%"><feGaussianBlur stdDeviation="5"/></filter>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#000" flood-opacity=".5"/></filter>
+ </defs><style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'DejaVu Sans', 'Segoe UI', Arial, sans-serif} .mono{font-family:'DejaVu Sans Mono', Menlo, Consolas, monospace}
+@media (prefers-reduced-motion:no-preference){
+.float{animation:float 3.1s ease-in-out infinite; transform-box:fill-box; transform-origin:center}
+.glow{animation:pulse 2.8s ease-in-out infinite}
+.spark{animation:blink 2.3s ease-in-out infinite alternate}
+.dash{animation:dash 3s linear infinite}
+}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+@keyframes pulse{0%,100%{opacity:.65}50%{opacity:1}}
+@keyframes blink{from{opacity:.22}to{opacity:1}}
+@keyframes dash{to{stroke-dashoffset:-40}}
+</style>
+ <rect x="0" y="0" width="586" height="242" rx="0" fill="#07111B"/><rect x="5" y="5" width="576" height="232" rx="9" fill="url(#panel)" stroke="#ffd66c" stroke-width="2"/><rect x="12" y="11" width="562" height="220" rx="0" fill="url(#grid)"/><rect x="7" y="7" width="5" height="228" rx="0" fill="#ffd66c"/><rect x="13" y="7" width="560" height="3" rx="0" fill="#ffd66c"/><rect x="27" y="31" width="57" height="37" rx="4" fill="#173241" stroke="#ffd66c" stroke-width="2"/><text x="38" y="58" font-size="20" font-weight="850" fill="#ffd66c" class="mono">04</text><text x="27" y="119" font-size="32" font-weight="950" fill="#f3fff9" >LENG’S WORLD</text><text x="28" y="153" font-size="19" font-weight="530" fill="#f3fff9" >Yes, you can drive my portfolio.</text><text x="29" y="198" font-size="17" font-weight="650" fill="#a9dfde" >Next.js / 3D / in development</text><rect x="28" y="209" width="180" height="4" rx="0" fill="#ffd66c"/><g transform="translate(353 8) scale(.69)"><g transform="translate(0 7) scale(0.9)" filter="url(#shadow)">
+ <path d="M5 132L181 68 358 133 335 182 185 235 33 187Z" fill="#0b555e"/>
+ <path d="M5 132L181 68 358 133 185 169Z" fill="#72dfa9"/>
+ <path d="M185 169L358 133 335 182 185 235 33 187 5 132Z" fill="#197b79" opacity=".75"/>
+ <path d="M39 130L120 113 204 144" fill="none" stroke="#d6f7b2" stroke-width="5" opacity=".65"/>
+ <path d="M176 85l47-58 43 61" fill="#205d80"/><path d="M192 69l31-42 17 26-17-6-12 16" fill="#c4faff"/>
+ <path d="M245 97l42-48 35 61" fill="#287a90"/><path d="M258 82l29-33 15 26-16-5" fill="#9fe9e7"/>
+ <g transform="translate(305 82)"><rect x="3" y="41" width="10" height="41" fill="#765f3a"/><path d="M8 0L-8 31H-1L-19 52H0L-14 70H30L15 52H35L17 31H23Z" fill="#168e80" stroke="#84e4ab" stroke-width="2"/></g>
+ <ellipse cx="174" cy="171" rx="84" ry="16" fill="#062b3d" opacity=".45"/>
+ <g class="float"><path d="M109 113l17-32q5-10 21-11h56q16 0 26 14l22 31v40H100v-32Z" fill="#3dc4cb" stroke="#0b5872" stroke-width="5"/>
+ <path d="M145 78l-21 36h53V77Z" fill="#c8f9e1" stroke="#0e5875" stroke-width="4"/>
+ <path d="M184 77v37h47l-20-30q-4-7-17-7Z" fill="#e5f5e8" stroke="#0e5875" stroke-width="4"/>
+ <path d="M111 132h138" stroke="#c1fdf3" stroke-width="6"/>
+ <rect x="91" y="142" width="167" height="18" rx="6" fill="#0c769a"/>
+ <rect x="246" y="128" width="13" height="13" fill="#fcd278"/>
+ <circle cx="135" cy="158" r="26" fill="#112736" stroke="#cef8f0" stroke-width="5"/><circle cx="135" cy="158" r="12" fill="#33576e"/>
+ <circle cx="224" cy="158" r="26" fill="#112736" stroke="#cef8f0" stroke-width="5"/><circle cx="224" cy="158" r="12" fill="#33576e"/></g>
+ </g></g><path d="M532 215l26-25m-20 0h20v20" stroke="#94d4d7" stroke-width="4" fill="none"/><g class="spark" fill="#ffd66c"><rect x="516" y="40" width="6" height="6"/><rect x="490" y="72" width="4" height="4"/></g>
+ </svg>
