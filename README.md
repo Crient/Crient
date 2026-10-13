@@ -1,16 +1,46 @@
-## About Me:
-I’m Leng, a Computer Science student, minoring in Data Science & Business Management; with the interests in software development, design, and business. I enjoy building and rebuilding projects as a way to learn how real applications are structured and improved over time.<br><br>I’ve worked on front end projects, UI prototypes, and early full stack ideas, and I’m currently focused on strengthening my foundations in Python, web development, and GitHub workflows. I’m especially interested in how technology, creativity, and product design come together in modern digital platforms.<br><br>I enjoy learning through hands on projects and collaborating with others as I continue to grow as a developer.
+<div align="center">
 
-## 📄 Resume & Portfolio
-[![Resume](https://img.shields.io/badge/-RESUME-dc2626?style=for-the-badge&labelColor=dc2626&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/12T8CsrDbkirHLAgyomw29icYWzm9lXCssl_pU5iT6ls/edit)
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-eab308?style=for-the-badge&labelColor=eab308&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16DvE33bvEeuvKQP6S2mITKOdBAbgO5Hz/view)
+<img src="./assets/pixel-hero.svg" alt="LENG.EXE — creative technologist, AI researcher and designer on a floating pixel island" width="100%" />
 
+[![Portfolio](https://img.shields.io/badge/OPEN_PORTFOLIO-1b7069?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Crient/leng-portfolio)
+[![Resume](https://img.shields.io/badge/RESUME-f5af66?style=for-the-badge&logo=googledocs&logoColor=20252c)](https://docs.google.com/document/d/12T8CsrDbkirHLAgyomw29icYWzm9lXCssl_pU5iT6ls/edit)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-388cbf?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gechlenglim/)
+[![Email](https://img.shields.io/badge/EMAIL-4c998a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Crient01@gmail.com)
 
-## 🔗 Socials
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gechlenglim/)
-[![Email](https://img.shields.io/badge/-EMAIL-16a34a?style=for-the-badge&labelColor=16a34a&logo=gmail&logoColor=white)](mailto:Crient01@gmail.com)
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-d62976?style=for-the-badge&labelColor=d62976&logo=instagram&logoColor=white)](https://www.instagram.com/ffsleng/)
-[![TikTok](https://img.shields.io/badge/-TIKTOK-000000?style=for-the-badge&labelColor=000000&logo=tiktok&logoColor=white)](https://www.tiktok.com/@imreallyleng)
+</div>
 
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+### `> SELECT QUEST`
+
+<a href="https://github.com/Crient/nom"><img src="./assets/pixel-quests.svg" alt="Three project quests: Nom, SNAP and AI research" width="100%" /></a>
+
+| Quest | Mission | Explore |
+|:--|:--|:--|
+| `01` **Nom** | Food discovery through playful UX, region exploration, and personalization | [Source](https://github.com/Crient/nom) |
+| `02` **SNAP** | Creative photo booth with 170+ stickers, customizable backgrounds, and local exports | [Live app](https://snapdigital.vercel.app) · [Source](https://github.com/Crient/SNAP) |
+| `03` **AI Research** | Exploring context engineering and architectures for modern AI agents | *Research in progress* |
+| `04` **LetterXO** | A shareable Valentine's experience backed by React and Supabase | [Source](https://github.com/Crient/LetterXO) |
+
+<img src="./assets/pixel-inventory.svg" alt="Leveling up and inventory of technical skills" width="100%" />
+
+### `> PLAYER BIO`
+
+I'm **Leng**, a Computer Science student at **Wentworth Institute of Technology**, pursuing minors in **Data Science** and **Business Management**. I work across **AI research, product design, and creative software**, with a focus on making digital experiences useful and enjoyable.
+
+- `CURRENT MISSION` — Context engineering and modern AI agent architectures.
+- `BUILD MODE` — Interactive portfolio worlds, food discovery, and creative applications.
+- `PREVIOUS QUEST` — Field Support co-op with Harvard University IT.
+- `LOCATION` — Boston, Massachusetts.
+
+### `> ACTIVITY MAP`
+
+<div align="center">
+
+![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Crient&theme=github-compact&hide_border=true&bg_color=0b1118&color=9be7c4&line=55d6c2&point=f8c87b)
+
+</div>
+
+### `> CONNECT / SAVE GAME`
+
+[LinkedIn](https://www.linkedin.com/in/gechlenglim/) · [Email](mailto:Crient01@gmail.com) · [Instagram](https://www.instagram.com/ffsleng/) · [TikTok](https://www.tiktok.com/@imreallyleng) · [Original portfolio file](https://drive.google.com/file/d/16DvE33bvEeuvKQP6S2mITKOdBAbgO5Hz/view)
+
+<sub>Designed as a pixel-inspired GitHub README. Built with SVG and Markdown. Animations respect reduced-motion preferences.</sub>
