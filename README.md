@@ -1,46 +1,51 @@
 <div align="center">
-
-<img src="./assets/pixel-hero.svg" alt="LENG.EXE — creative technologist, AI researcher and designer on a floating pixel island" width="100%" />
-
-[![Portfolio](https://img.shields.io/badge/OPEN_PORTFOLIO-1b7069?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Crient/leng-portfolio)
-[![Resume](https://img.shields.io/badge/RESUME-f5af66?style=for-the-badge&logo=googledocs&logoColor=20252c)](https://docs.google.com/document/d/12T8CsrDbkirHLAgyomw29icYWzm9lXCssl_pU5iT6ls/edit)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-388cbf?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gechlenglim/)
-[![Email](https://img.shields.io/badge/EMAIL-4c998a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Crient01@gmail.com)
-
+  <img src="./assets/hero-banner.png" alt="LENG.EXE hero banner" width="100%" />
 </div>
 
-### `> SELECT QUEST`
+Hey, I'm **Leng** — a Computer Science student at **Wentworth** from **Cambodia**, based in **Boston**.
+I like building apps, designing interfaces, figuring out how things work, and lately that has meant a food app, a photobooth, a portfolio you can drive through, and a lot of exploring AI agents.
 
-<a href="https://github.com/Crient/nom"><img src="./assets/pixel-quests.svg" alt="Three project quests: Nom, SNAP and AI research" width="100%" /></a>
+If you want the full story, more projects, and everything else, start with the portfolio.
 
-| Quest | Mission | Explore |
-|:--|:--|:--|
-| `01` **Nom** | Food discovery through playful UX, region exploration, and personalization | [Source](https://github.com/Crient/nom) |
-| `02` **SNAP** | Creative photo booth with 170+ stickers, customizable backgrounds, and local exports | [Live app](https://snapdigital.vercel.app) · [Source](https://github.com/Crient/SNAP) |
-| `03` **AI Research** | Exploring context engineering and architectures for modern AI agents | *Research in progress* |
-| `04` **LetterXO** | A shareable Valentine's experience backed by React and Supabase | [Source](https://github.com/Crient/LetterXO) |
+<p align="center">
+  <a href="https://drive.google.com/file/d/16DvE33bvEeuvKQP6S2mITKOdBAbgO5Hz/view">
+    <img src="./assets/open-my-portfolio.png" alt="Open my portfolio" width="100%" />
+  </a>
+</p>
 
-<img src="./assets/pixel-inventory.svg" alt="Leveling up and inventory of technical skills" width="100%" />
-
-### `> PLAYER BIO`
-
-I'm **Leng**, a Computer Science student at **Wentworth Institute of Technology**, pursuing minors in **Data Science** and **Business Management**. I work across **AI research, product design, and creative software**, with a focus on making digital experiences useful and enjoyable.
-
-- `CURRENT MISSION` — Context engineering and modern AI agent architectures.
-- `BUILD MODE` — Interactive portfolio worlds, food discovery, and creative applications.
-- `PREVIOUS QUEST` — Field Support co-op with Harvard University IT.
-- `LOCATION` — Boston, Massachusetts.
-
-### `> ACTIVITY MAP`
+<p align="center">
+  <a href="https://docs.google.com/document/d/12T8CsrDbkirHLAgyomw29icYWzm9lXCssl_pU5iT6ls/edit">
+    <img src="./assets/resume-bar.png" alt="Open resume" width="100%" />
+  </a>
+</p>
 
 <div align="center">
-
-![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Crient&theme=github-compact&hide_border=true&bg_color=0b1118&color=9be7c4&line=55d6c2&point=f8c87b)
-
+  <img src="./assets/leng-exe-dashboard.png" alt="LENG.EXE dashboard with selected projects, loadout, and socials" width="100%" />
 </div>
 
-### `> CONNECT / SAVE GAME`
+## Select a project
 
-[LinkedIn](https://www.linkedin.com/in/gechlenglim/) · [Email](mailto:Crient01@gmail.com) · [Instagram](https://www.instagram.com/ffsleng/) · [TikTok](https://www.tiktok.com/@imreallyleng) · [Original portfolio file](https://drive.google.com/file/d/16DvE33bvEeuvKQP6S2mITKOdBAbgO5Hz/view)
+- **Nom** — food discovery / UX + product · [Figma](https://www.figma.com/design/xVMCeNJV8S3axojtIgtoCr/Untitled?node-id=1-2)
+- **SNAP** — browser photobooth · [Live app](https://snapdigital.vercel.app) · [GitHub](https://github.com/Crient/SNAP)
+- **LetterXO** — Valentine web app · [Live app](https://letter-xo.vercel.app/) · [GitHub](https://github.com/Crient/LetterXO)
+- **Leng's World** — interactive portfolio · [Portfolio](https://drive.google.com/file/d/16DvE33bvEeuvKQP6S2mITKOdBAbgO5Hz/view)
+- **Allstate ML Studio** — validation-first team ML project · [GitHub](https://github.com/Break-Through-Tech/Allstate-1C-predicting-auto-claims-severity)
+- **AI Research** — context / tools / memory · [Portfolio](https://drive.google.com/file/d/16DvE33bvEeuvKQP6S2mITKOdBAbgO5Hz/view)
 
-<sub>Designed as a pixel-inspired GitHub README. Built with SVG and Markdown. Animations respect reduced-motion preferences.</sub>
+## Loadout
+
+- **Code** — `Python` `Java` `JavaScript` `SQL` `HTML/CSS` `F#`
+- **Build** — `React` `Next.js` `Vite` `Supabase` `Git` `REST APIs`
+- **Data + AI** — `Pandas` `NumPy` `Scikit-learn` `Machine Learning` `Agent workflows`
+- **Design** — `Figma` `UI/UX` `Prototyping` `Motion` `Video`
+
+## Find me elsewhere
+
+- **Portfolio** — [Open my portfolio](https://drive.google.com/file/d/16DvE33bvEeuvKQP6S2mITKOdBAbgO5Hz/view)
+- **Resume** — [Open document](https://docs.google.com/document/d/12T8CsrDbkirHLAgyomw29icYWzm9lXCssl_pU5iT6ls/edit)
+- **LinkedIn** — [linkedin.com/in/gechlenglim](https://www.linkedin.com/in/gechlenglim/)
+- **Email** — [Crient01@gmail.com](mailto:Crient01@gmail.com)
+- **Instagram** — [@ffsleng](https://www.instagram.com/ffsleng/)
+- **TikTok** — [@imreallyleng](https://www.tiktok.com/@imreallyleng)
+
+<sub>Built for the GitHub profile README. If you want the deeper story, the full portfolio is the best place to start.</sub>
