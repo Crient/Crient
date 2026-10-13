@@ -1,51 +1,37 @@
+<!-- LENG.EXE V4 Fixed — each asset is independent and clickable; no full-page screenshot embeds -->
 <div align="center">
-  <img src="./assets/hero-banner.png" alt="LENG.EXE hero banner" width="100%" />
+  <img src="./assets/hero-animated.gif" alt="LENG.EXE animated pixel island with rover — creative apps, interfaces, and AI" width="100%" />
 </div>
 
-Hey, I'm **Leng** — a Computer Science student at **Wentworth** from **Cambodia**, based in **Boston**.
-I like building apps, designing interfaces, figuring out how things work, and lately that has meant a food app, a photobooth, a portfolio you can drive through, and a lot of exploring AI agents.
-
-If you want the full story, more projects, and everything else, start with the portfolio.
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/16DvE33bvEeuvKQP6S2mITKOdBAbgO5Hz/view">
-    <img src="./assets/open-my-portfolio.png" alt="Open my portfolio" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://docs.google.com/document/d/12T8CsrDbkirHLAgyomw29icYWzm9lXCssl_pU5iT6ls/edit">
-    <img src="./assets/resume-bar.png" alt="Open resume" width="100%" />
-  </a>
-</p>
+Hey, I'm **Leng**. I'm from Cambodia and study Computer Science at Wentworth in Boston. I like building apps, designing interfaces, and figuring out how things work. Lately that's meant a food app, a photobooth, a portfolio you can drive through, and a lot of exploring AI agents.
 
 <div align="center">
-  <img src="./assets/leng-exe-dashboard.png" alt="LENG.EXE dashboard with selected projects, loadout, and socials" width="100%" />
+  <a href="https://drive.google.com/file/d/16DvE33bvEeuvKQP6S2mITKOdBAbgO5Hz/view"><img src="./assets/portfolio-cta.svg" width="100%" alt="OPEN MY PORTFOLIO — projects, design, experiments, and more" /></a>
+  <a href="https://docs.google.com/document/d/12T8CsrDbkirHLAgyomw29icYWzm9lXCssl_pU5iT6ls/edit"><img src="./assets/resume.svg" width="100%" alt="Resume — open document" /></a>
 </div>
 
-## Select a project
+### `01 / SELECT A PROJECT`
 
-- **Nom** — food discovery / UX + product · [Figma](https://www.figma.com/design/xVMCeNJV8S3axojtIgtoCr/Untitled?node-id=1-2)
-- **SNAP** — browser photobooth · [Live app](https://snapdigital.vercel.app) · [GitHub](https://github.com/Crient/SNAP)
-- **LetterXO** — Valentine web app · [Live app](https://letter-xo.vercel.app/) · [GitHub](https://github.com/Crient/LetterXO)
-- **Leng's World** — interactive portfolio · [Portfolio](https://drive.google.com/file/d/16DvE33bvEeuvKQP6S2mITKOdBAbgO5Hz/view)
-- **Allstate ML Studio** — validation-first team ML project · [GitHub](https://github.com/Break-Through-Tech/Allstate-1C-predicting-auto-claims-severity)
-- **AI Research** — context / tools / memory · [Portfolio](https://drive.google.com/file/d/16DvE33bvEeuvKQP6S2mITKOdBAbgO5Hz/view)
+<p align="center">
+  <a href="https://github.com/Crient/nom"><img src="./assets/project-01.svg" width="49%" alt="Explore Nom source code" /></a>
+  <a href="https://snapdigital.vercel.app/"><img src="./assets/project-02.svg" width="49%" alt="Launch SNAP photobooth" /></a>
+  <a href="https://letter-xo.vercel.app/"><img src="./assets/project-03.svg" width="49%" alt="Launch LetterXO" /></a>
+  <a href="https://drive.google.com/file/d/16DvE33bvEeuvKQP6S2mITKOdBAbgO5Hz/view"><img src="./assets/project-04.svg" width="49%" alt="Open portfolio material about Leng’s World; playable site not publicly deployed" /></a>
+  <a href="https://github.com/Break-Through-Tech/Allstate-1C-predicting-auto-claims-severity"><img src="./assets/project-05.svg" width="49%" alt="Allstate ML team repository" /></a>
+  <a href="https://drive.google.com/file/d/16DvE33bvEeuvKQP6S2mITKOdBAbgO5Hz/view"><img src="./assets/project-06.svg" width="49%" alt="Learn about AI research in my portfolio" /></a>
+</p>
 
-## Loadout
+### `02 / LEVELING UP`
 
-- **Code** — `Python` `Java` `JavaScript` `SQL` `HTML/CSS` `F#`
-- **Build** — `React` `Next.js` `Vite` `Supabase` `Git` `REST APIs`
-- **Data + AI** — `Pandas` `NumPy` `Scikit-learn` `Machine Learning` `Agent workflows`
-- **Design** — `Figma` `UI/UX` `Prototyping` `Motion` `Video`
+<img src="./assets/leveling-loadout.svg" alt="Leveling up and technical, data, and design loadout" width="100%" />
 
-## Find me elsewhere
+### `03 / FIND ME ELSEWHERE`
 
-- **Portfolio** — [Open my portfolio](https://drive.google.com/file/d/16DvE33bvEeuvKQP6S2mITKOdBAbgO5Hz/view)
-- **Resume** — [Open document](https://docs.google.com/document/d/12T8CsrDbkirHLAgyomw29icYWzm9lXCssl_pU5iT6ls/edit)
-- **LinkedIn** — [linkedin.com/in/gechlenglim](https://www.linkedin.com/in/gechlenglim/)
-- **Email** — [Crient01@gmail.com](mailto:Crient01@gmail.com)
-- **Instagram** — [@ffsleng](https://www.instagram.com/ffsleng/)
-- **TikTok** — [@imreallyleng](https://www.tiktok.com/@imreallyleng)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gechlenglim/"><img src="./assets/social-linkedin.svg" width="49%" alt="LinkedIn" /></a>
+  <a href="mailto:Crient01@gmail.com"><img src="./assets/social-email.svg" width="49%" alt="Email Leng" /></a>
+  <a href="https://www.instagram.com/ffsleng/"><img src="./assets/social-instagram.svg" width="49%" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@imreallyleng"><img src="./assets/social-tiktok.svg" width="49%" alt="TikTok" /></a>
+</p>
 
-<sub>Built for the GitHub profile README. If you want the deeper story, the full portfolio is the best place to start.</sub>
+<!-- Your GitHub contribution calendar is already shown by GitHub under this README. -->
