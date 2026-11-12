@@ -3,13 +3,7 @@
   <img src="./assets/hero-animated.gif" alt="LENG.EXE animated pixel island with rover — creative apps, interfaces, and AI" width="100%" />
 </div>
 
-Hey, I'm **Leng**. I'm from Cambodia and study Computer Science at Wentworth in Boston. I'm pursuing **AI product management** roles. My projects span machine learning, AI research, and apps I design and build.
-
-### Allstate | Break Through Tech AI Studio Fellow
-
-My team built regression models to predict the final cost of auto insurance claims using **188,318 claims and 130 anonymized predictors**. I validated the dataset, analyzed the long-tailed loss distribution, and implemented and evaluated an XGBoost model using five-fold cross-validation with preprocessing fitted separately inside each training fold. The selected configuration achieved **1,167.52 validation MAE** in the original loss units.
-
-[Team repository](https://github.com/Break-Through-Tech/Allstate-1C-predicting-auto-claims-severity) · [My XGBoost pull request](https://github.com/Break-Through-Tech/Allstate-1C-predicting-auto-claims-severity/pull/67) · [My data validation pull request](https://github.com/Break-Through-Tech/Allstate-1C-predicting-auto-claims-severity/pull/20)
+Hey, I'm **Leng**. I'm from Cambodia and study Computer Science at Wentworth in Boston. I like building apps, designing interfaces, and figuring out how things work. Lately that's meant a food app, a photobooth, a portfolio you can drive through, and a lot of exploring AI agents.
 
 <div align="center">
   <a href="https://drive.google.com/file/d/16DvE33bvEeuvKQP6S2mITKOdBAbgO5Hz/view"><img src="./assets/portfolio-cta.svg?v=2" width="100%" alt="OPEN MY PORTFOLIO — projects, design, experiments, and more" /></a>
@@ -32,8 +26,6 @@ My team built regression models to predict the final cost of auto insurance clai
 <img src="./assets/leveling-loadout.svg" alt="Leveling up and technical, data, and design loadout" width="100%" />
 
 ### `03 / FIND ME ELSEWHERE`
-
-[LinkedIn](https://www.linkedin.com/in/gechlenglim/) · [Crient01@gmail.com](mailto:Crient01@gmail.com)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gechlenglim/"><img src="./assets/social-linkedin.svg?v=2" width="49%" alt="LinkedIn" /></a>
